@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SneakySensei/SneakySensei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hello World!
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true)
