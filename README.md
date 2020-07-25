@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ## Hello World!
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&hide_border=true&icon_color=7348B7&title_color=7348B7)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&hide_border=true&icon_color=7348B7&title_color=7348B7" />
