@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ## Hello World!
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&theme=dracula&hide=css,c%23" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&theme=dracula&count_private=true" />
-![header](https://github.com/sneakysensei/sneakysensei/blob/master/dino.gif)
+![header](https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/dino.gif)
