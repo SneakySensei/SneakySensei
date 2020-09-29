@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&theme=dracula" />
 </p>
 <p valign="middle" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&line_height=35&theme=dracula&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&line_height=40&theme=dracula&count_private=true" />
 </p>
 
 <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/dino.gif" />
