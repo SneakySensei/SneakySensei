@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&line_height=24&theme=material-palenight&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 </p>
 <p valign="middle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=SneakySensei&theme=material-palenight&card_width=445" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=SneakySensei&theme=material-palenight&card_width=445&custom_title=%23%20Wakatime%20Weekly%20Stats%20📊" />
 </p>
 
 <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/dino.gif" />
