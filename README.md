@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ## Hello World!
 <p valign="middle">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&theme=material-palenight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20👨🏽‍💻" />
 </p>
 <p valign="middle" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&line_height=40&theme=dracula&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&show_icons=true&line_height=24&theme=material-palenight&count_private=true&include_all_commits=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 </p>
 
 <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/dino.gif" />
