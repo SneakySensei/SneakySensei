@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hello World!
-<p valign="middle" style="background-color: #000;" >
+<p valign="middle">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&theme=dracula" />
 </p>
 <p valign="middle" >
