@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">console.log("Hello World!")</h1>
 <img src="https://komarev.com/ghpvc/?username=SneakySensei&color=bb54ff&label=Developers%20disappointed&style=flat-square" />
 
-<h2>My GitHub Trophies 🏆</h2>
+## My GitHub Trophies 🏆
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sneakysensei&theme=dracula" width="780" />
 </p>
