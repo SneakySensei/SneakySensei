@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">console.log("Hello World!")</h1>
+<h1 align="center">console.log("Hello World!");</h1>
 <img src="https://komarev.com/ghpvc/?username=SneakySensei&color=bb54ff&label=Developers%20disappointed&style=flat-square" />
 
 ## My GitHub Trophies 🏆
