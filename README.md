@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <p valign="middle" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&line_height=24&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" />
 </p>
-<p valign="middle">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=sneakysensei&theme=dracula" />
+<p valign="middle" align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sneakysensei&theme=dracula" />
 </p>
 
 <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/dino.gif" />
