@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://komarev.com/ghpvc/?username=SneakySensei&color=bb54ff&label=Developers%20disappointed&style=flat-square" />
+<img align="center" src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/HeaderVectorUltrawide.jpg" />
 
 ## 🏆 My GitHub Trophies
-<img align="center" src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/HeaderVectorUltrawide.jpg" />
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sneakysensei&theme=dracula" width="780" />
 </p>
@@ -27,4 +26,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&theme=material-palenight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
 </p>
-<img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/dino.gif" />
+
+<img align="center" src="https://komarev.com/ghpvc/?username=SneakySensei&color=bb54ff&label=Developers%20disappointed&style=flat-square" />
