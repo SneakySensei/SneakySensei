@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SneakySensei&color=bb54ff&label=Developers%20disappointed&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=SneakySensei&color=bb54ff&label=Profile%20visits&style=flat-square" />
 </p>
