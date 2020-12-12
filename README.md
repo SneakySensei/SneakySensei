@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/HeaderVectorUltrawide.jpg" />
 </p>
-
-## 🏆 My GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sneakysensei&theme=dracula" width="780" />
+<p align="left">
+- 🌱 I’m currently learning Frontend Development
+- 👯 I’m looking to intern React developer roles
+- 💬 Ask me about Game Dev, IoT, and React
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/snehilcodes/), [Instagram](https://www.instagram.com/sneakysensei/)
 </p>
-
+<p align="right">![Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)</p>
 ---
 
 <p align="center">
