@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=tokyonight" width="460" />
 </p>
 
 <p align="center">
