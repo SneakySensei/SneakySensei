@@ -24,11 +24,8 @@ Here are some ideas to get you started:
 <p align="right"><img align="center" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" /></p>
 ---
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=dark" />
-  
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=dark" /> |
+|:------------:|:------------:|
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SneakySensei&color=bb54ff&label=Profile%20visits&style=flat-square" />
