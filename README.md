@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/HeaderVectorUltrawide.jpg" />
 </p>
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=tokyonight_duo" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=dark" />
 
 **About Me** 👨‍🎓
 - 🌱 I’m currently learning Typescript
