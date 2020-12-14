@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/HeaderVectorUltrawide.jpg" />
 </p>
 
+<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 **About Me** 👨‍🎓
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to intern React developer roles
 - 💬 Ask me about Game Dev, IoT, and React
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/snehilcodes/">Linkedin</a>, <a href="https://www.instagram.com/sneakysensei/">Instagram</a>
-
-<img align="right" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
