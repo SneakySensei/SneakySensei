@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=dark" />
 
-**About Me** 👨‍🎓
+## About Me 👨‍🎓
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to intern React developer roles
 - 💬 Ask me about Game Dev, IoT, and React
