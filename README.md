@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=SneakySensei&color=BE91F2&label=Visitors&style=flat-square" />
+<img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei" />
 </p>
