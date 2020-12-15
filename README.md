@@ -16,10 +16,11 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/SneakySensei/SneakySensei/master/HeaderVectorUltrawide.jpg" />
 </p>
 <p align="center">
-<a href="https://twitter.com/snehilcodes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://twitter.com/snehilcodes"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/snehilcodes/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/sneakysensei"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" />
+  <a href="https://instagram.com/sneakysensei"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://snehil.tech"><img src="portfolio.svg"></a>
+  <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" />
 </p>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SneakySensei&theme=dark" />
