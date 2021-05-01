@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <img src="https://snehil.tech/images/svg/git.svg" alt="Git" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/github.svg" alt="GitHub" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/figma.svg" alt="Figma" height="40" width="40" />
-<img src="https://snehil.tech/images/svg/photoshop.svg" alt="Photoshop" height="40" width="40" />
+<img src="https://snehil.tech/images/svg/photoshop.svg" alt="Photoshop" height="40" width="40" />&nbsp;
 <img src="https://snehil.tech/images/svg/illustrator.svg" alt="Illustrator" height="40" width="40" />
 
 <p align="center">
