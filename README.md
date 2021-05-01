@@ -49,18 +49,18 @@ Here are some ideas to get you started:
 <img src="https://snehil.tech/images/svg/bootstrap.svg" alt="Bootstrap" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/react.svg" alt="ReactJs" height="40" width="40" />
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux" height="40" width="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs.svg" alt="NEXT.js" height="40" width="40" />
+<img src="https://snehil.tech/images/svg/nextjs.svg" alt="NEXT.js" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/nodejs.svg" alt="Node.js" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/express.svg" alt="Express.js" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/mongo.svg" alt="MongoDB" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/firebase.svg" alt="Firebase" height="40" width="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/sql.svg" alt="SQL" height="40" width="40" />
+<img src="https://snehil.tech/images/svg/sql.svg" alt="SQL" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/arduino.svg" alt="Arduino" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/rpi.svg" alt="RaspberryPi" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/git.svg" alt="Git" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/github.svg" alt="GitHub" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/figma.svg" alt="Figma" height="40" width="40" />
-<img src="https://snehil.tech/images/svg/photoshopt.svg" alt="Photoshop" height="40" width="40" />
+<img src="https://snehil.tech/images/svg/photoshop.svg" alt="Photoshop" height="40" width="40" />
 <img src="https://snehil.tech/images/svg/illustrator.svg" alt="Illustrator" height="40" width="40" />
 
 <p align="center">
