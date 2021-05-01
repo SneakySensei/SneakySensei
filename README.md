@@ -32,6 +32,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/snehilcodes/">Linkedin</a>, <a href="https://www.instagram.com/sneakysensei/">Instagram</a>
 
 <br><br><br>
+<img src="https://snehil.tech/images/svg/vscode.svg" alt="VS Code" height="40" width="40" />
+<img src="https://snehil.tech/images/svg/javascript.svg" alt="JavaScript" height="40" width="40" />
+<img src="https://snehil.tech/images/svg/python.svg" alt="Python" height="40" width="40" />
+<img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+
 <img src="https://snehil.tech/images/svg/blender.svg" alt="Blender" height="40" width="40" />
 
 <p align="center">
