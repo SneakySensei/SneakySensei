@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/snehilcodes/">Linkedin</a>, <a href="https://www.instagram.com/sneakysensei/">Instagram</a>
 
 <br><br><br>
+<img src="https://snehil.tech/images/svg/blender.svg" alt="Blender" height="40" width="40" />
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakysensei&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
