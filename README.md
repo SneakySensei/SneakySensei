@@ -32,36 +32,36 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/snehilcodes/">Linkedin</a>, <a href="https://www.instagram.com/sneakysensei/">Instagram</a>
 
 <br><br><br>
-<img src="https://snehil.tech/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/python.svg" title="Python" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/python.svg" title="Python" height="32" width="32" />
 <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>
-<img src="https://snehil.tech/images/svg/typescript.svg" title="TypeScript" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/csharp.svg" title="C#" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/vscode.svg" title="VS Code" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/typescript.svg" title="TypeScript" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/csharp.svg" title="C#" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/vscode.svg" title="VS Code" height="32" width="32" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" title="Android Studio" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/unity.svg" title="Unity" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/chrome.svg" title="Chrome Dev Tools" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/blender.svg" title="Blender" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/html.svg" title="HTML" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/css.svg" title="CSS" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/sass.svg" title="SASS" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/jquery.svg" title="jQuery" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/react.svg" title="ReactJs" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/unity.svg" title="Unity" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/chrome.svg" title="Chrome Dev Tools" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/blender.svg" title="Blender" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/html.svg" title="HTML" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/css.svg" title="CSS" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/sass.svg" title="SASS" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/jquery.svg" title="jQuery" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/react.svg" title="ReactJs" height="32" width="32" />
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/nextjs.svg" title="NEXT.js" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/nodejs.svg" title="Node.js" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/express.svg" title="Express.js" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/mongo.svg" title="MongoDB" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/firebase.svg" title="Firebase" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/sql.svg" title="SQL" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/arduino.svg" title="Arduino" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/rpi.svg" title="RaspberryPi" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/git.svg" title="Git" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/github.svg" title="GitHub" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/figma.svg" title="Figma" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/photoshop.svg" title="Photoshop" height="32" width="32" />
-<img src="https://snehil.tech/images/svg/illustrator.svg" title="Illustrator" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/nextjs.svg" title="NEXT.js" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/nodejs.svg" title="Node.js" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/express.svg" title="Express.js" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/mongo.svg" title="MongoDB" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/firebase.svg" title="Firebase" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/arduino.svg" title="Arduino" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/rpi.svg" title="RaspberryPi" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/git.svg" title="Git" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/figma.svg" title="Figma" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/photoshop.svg" title="Photoshop" height="32" width="32" />
+<img src="https://snehil.dev/images/svg/illustrator.svg" title="Illustrator" height="32" width="32" />
 
 <br>
 
