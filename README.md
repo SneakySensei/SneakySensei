@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/snehilcodes" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/snehilcodes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/sneakysensei" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://snehil.tech"  target="_blank"><img src="portfolio.svg"></a>
+  <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a>
   <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" />
 </p>
 
