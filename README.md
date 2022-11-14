@@ -61,7 +61,7 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=sneakysensei&theme=material-palenight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats" /></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&theme=material-palenight&layout=compact&custom_title=%23%20Most%20Used%20Languages&show_icons=true" /></td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakysensei&langs_count=8&theme=material-palenight&layout=compact&custom_title=%23%20Most%20Used%20Languages&show_icons=true" /></td>
   </tr>
 </table>
 
