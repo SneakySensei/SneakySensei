@@ -20,7 +20,7 @@
     <li>🌱 I’m currently learning Golang.</li>
     <li>💬 Ask me about TypeScript, React, Design, and CSS.</li>
     <li>⚡ Fun fact: I love playing couch multiplayer games :3</li>
-    <li>📫 Reach [me@snehil.dev](mailto:me@snehil.dev)</li>
+    <li>📫 Reach <a href="mailto:me@snehil.dev" target="_blank">me@snehil.dev</a></li>
     <li>😄 Pronouns: He/Him</li>
   </ul>
   <p align="center">
