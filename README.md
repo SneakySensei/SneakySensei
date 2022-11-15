@@ -24,36 +24,58 @@
     <li>😄 Pronouns: He/Him</li>
   </ul>
   <p align="center">
-    <img src="https://snehil.dev/images/svg/javascript.svg" title="JavaScript" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/python.svg" title="Python" height="32" width="32" />
-    <img src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" title="Java" width="32" height="32"/>
-    <img src="https://snehil.dev/images/svg/typescript.svg" title="TypeScript" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/csharp.svg" title="C#" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/vscode.svg" title="VS Code" height="32" width="32" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" title="Android Studio" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/unity.svg" title="Unity" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/chrome.svg" title="Chrome Dev Tools" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/blender.svg" title="Blender" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/html.svg" title="HTML" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/css.svg" title="CSS" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/sass.svg" title="SASS" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/jquery.svg" title="jQuery" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/bootstrap.svg" title="Bootstrap" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/react.svg" title="ReactJs" height="32" width="32" />
-    <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/nextjs.svg" title="NEXT.js" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/nodejs.svg" title="Node.js" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/express.svg" title="Express.js" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/mongo.svg" title="MongoDB" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/firebase.svg" title="Firebase" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/arduino.svg" title="Arduino" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/rpi.svg" title="RaspberryPi" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/git.svg" title="Git" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/figma.svg" title="Figma" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/photoshop.svg" title="Photoshop" height="32" width="32" />
-    <img src="https://snehil.dev/images/svg/illustrator.svg" title="Illustrator" height="32" width="32" />
+    <img src="https://img.shields.io/badge/JavaScript-232323?style=flat-square&logo=javascript" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp" alt="C#" />
+    <img src="https://img.shields.io/badge/C-303030?style=flat-square&logo=c" alt="C" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-0a85bf?style=flat-square&logo=openjdk" alt="Java" />
+    <img src="https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-232323?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux" alt="Redux" />
+    <img src="https://img.shields.io/badge/SASS-1a1a1a?style=flat-square&logo=sass" alt="SASS" />
+    <img src="https://img.shields.io/badge/TailwindCSS-0f1629?style=flat-square&logo=tailwindcss" alt="TailwindCSS" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/React%20Query-232323?style=flat-square&logo=reactquery" alt="Redux" />
+    <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs" alt="Three.js" />
+    <img src="https://img.shields.io/badge/Svelte-000000?style=flat-square&logo=svelte" alt="Svelte" />
+    <img src="https://img.shields.io/badge/Ionic-001a3a?style=flat-square&logo=ionic" alt="Ionic" />
+    <img src="https://img.shields.io/badge/Capacitor-00233a?style=flat-square&logo=capacitor" alt="Capacitor" />
+    <img src="https://img.shields.io/badge/Styled%20Components-383838?style=flat-square&logo=styledcomponents" alt="Styled Components" />
+    <img src="https://img.shields.io/badge/MUI-2196F3?style=flat-square&logo=mui&logoColor=white" alt="MUI" />
+    <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white" alt="Ant Design" />
+    <img src="https://img.shields.io/badge/Chakra%20UI-1a202c?style=flat-square&logo=chakraui" alt="ChakraUI" />
+    <img src="https://img.shields.io/badge/Chart.js-333538?style=flat-square&logo=chartdotjs" alt="Chart.js" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery" alt="jQuery" />
+    <img src="https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express" alt="Express" />
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs" alt="NestJS" />
+    <img src="https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Prisma-0c3249?style=flat-square&logo=prisma" alt="Prisma" />
+    <img src="https://img.shields.io/badge/MongoDB-001e2b?style=flat-square&logo=mongodb" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql" alt="MySQL" />
+    <img src="https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socketdotio" alt="Socket.io" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx" alt="NGINX" />
+    <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2" alt="PM2" />
+    <img src="https://img.shields.io/badge/DigitalOcean-081b4b?style=flat-square&logo=digitalocean" alt="DigitalOcean" />
+    <img src="https://img.shields.io/badge/Amazon%20EC2-232F3E?style=flat-square&logo=amazonec2" alt="Amazon EC2" />
+    <img src="https://img.shields.io/badge/Google%20APIs-404040?style=flat-square&logo=googlecloud" alt="Google APIs" />
+    <img src="https://img.shields.io/badge/GitHub%20Actions-24292f?style=flat-square&logo=githubactions" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/GitHub-0d1116?style=flat-square&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GIT-000000?style=flat-square&logo=git" alt="GIT" />
+    <img src="https://img.shields.io/badge/Figma-282828?style=flat-square&logo=figma" alt="Figma" />
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-001e36?style=flat-square&logo=adobephotoshop" alt="Adobe Photoshop" />
+    <img src="https://img.shields.io/badge/Adobe%20Illustrator-330000?style=flat-square&logo=adobeillustrator" alt="Adobe Illustrator" />
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-00005b?style=flat-square&logo=adobepremierepro" alt="Adobe Premiere Pro" />
+    <img src="https://img.shields.io/badge/Blender-1d1d1d?style=flat-square&logo=blender" alt="Blender" />
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity" alt="Unity" />
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi" alt="Raspberry Pi" />
   </p>
 </div>
 <table border="0">
