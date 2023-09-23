@@ -60,6 +60,7 @@
     <img src="https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socketdotio" alt="Socket.io" />
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql" alt="GraphQL" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white" alt="Sanity" />
     <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx" alt="NGINX" />
     <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2" alt="PM2" />
     <img src="https://img.shields.io/badge/DigitalOcean-081b4b?style=flat-square&logo=digitalocean" alt="DigitalOcean" />
